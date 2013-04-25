@@ -2,11 +2,11 @@
 <package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
   <metadata>
     <meta content="cover-image" name="cover"/>
-    <dc:identifier id="bookid">urn:uuid:00000000-0000-0000-0000-000000000000</dc:identifier>
-    <dc:title>Example Title</dc:title>
-    <dc:creator>Example Author</dc:creator>
-    <dc:date>0000</dc:date>
-    <dc:publisher>Example Publisher</dc:publisher>
+    <dc:identifier id="bookid">urn:uuid:da93c2f3-7d32-4b83-9a8e-18686d15c016</dc:identifier>
+    <dc:title>The Space Shuttle Decision: NASA’s Search for a Reusable Space Vehicle</dc:title>
+    <dc:creator>T.A. Heppenheimer</dc:creator>
+    <dc:date>1999</dc:date>
+    <dc:publisher>NASA History Office</dc:publisher>
     <dc:language>en</dc:language>
   </metadata>
   <manifest>
