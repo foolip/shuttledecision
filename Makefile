@@ -1,4 +1,4 @@
-EPUB_FILE := example.epub
+EPUB_FILE := shuttledecision.epub
 
 default: $(EPUB_FILE)
 
